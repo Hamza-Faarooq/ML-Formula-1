@@ -87,25 +87,25 @@ Ensure your dataset contains the following columns:
 
 # Example data loading script:
 # python
-
+```
 import pandas as pd
 data = pd.read_csv('f1_race_data.csv')
-
+```
 
 ## Data Preprocessing
 
 *Ensure data is clean and well-prepared for analysis:*
 # python
-
+```
 data.fillna(method='ffill', inplace=True)  # Example of handling missing values
 data['weather'] = data['weather'].astype('category').cat.codes  # Encoding categorical data
-
+```
 
 ## Exploratory Data Analysis (EDA)
 
 *Analyze the dataset to understand the distributions, correlations, and patterns. Visualization libraries like Matplotlib and Seaborn can be used to create plots:*
 # python
-
+```
 import seaborn as sns
 import matplotlib.pyplot as plt
 sns.pairplot(data)
@@ -113,7 +113,7 @@ plt.show()
 correlation_matrix = data.corr()
 sns.heatmap(correlation_matrix, annot=True)
 plt.show()
-
+```
 
 ## Feature Engineering
 
@@ -124,39 +124,49 @@ plt.show()
 
 # Example:
 # python
+```
 from sklearn.preprocessing import StandardScaler
-
 scaler = StandardScaler()
 data[['grid_position', 'car_performance']] = scaler.fit_transform(data[['grid_position', 'car_performance']])
-
+```
 
 ## Model Training and Evaluation
 
 # Using a RandomForestRegressor for predicting race positions:
 # python
+```
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
+```
 
 # Split data into features and target variable
+```
 X = data.drop(columns=['position'])
 y = data['position']
+```
 
 # Split data into training and testing sets
+```
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+```
 
 # Train the model
+```
 model = RandomForestRegressor(n_estimators=100, random_state=42)
 model.fit(X_train, y_train)
+```
 
 # Make predictions
+```
 y_pred = model.predict(X_test)
+```
 
 # Evaluate the model
+```
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
-
 print(f"Mean Squared Error: {mse}")
 print(f"R-squared: {r2}")
-
+```
 
