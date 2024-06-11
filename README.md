@@ -19,25 +19,25 @@ The project involves the following steps:
 The dataset includes:
 - **20 current F1 drivers**
   - *Max Verstappen*
-  - Sergio Perez
-  - Charles Leclerc
-  - Carlos Sainz
-  - Lewis Hamilton
-  - George Russell
-  - Lando Norris
-  - Daniel Ricciardo
-  - Esteban Ocon
-  - Fernando Alonso
-  - Valtteri Bottas
-  - Zhou Guanyu
-  - Pierre Gasly
-  - Yuki Tsunoda
-  - Sebastian Vettel
+  - *Sergio Perez*
+  - *Charles Leclerc*
+  - *Carlos Sainz*
+  - *Lewis Hamilton*
+  - *George Russell*
+  - *Lando Norris*
+  - *Daniel Ricciardo*
+  - *Esteban Ocon*
+  - *Fernando Alonso*
+  - *Valtteri Bottas*
+  - *Zhou Guanyu*
+  - *Pierre Gasly*
+  - *Yuki Tsunoda*
+  - Sebastian Vettel*
   - Lance Stroll
-  - Niko Hulkenberg 
+  - *Niko Hulkenberg 
   - Kevin Magnussen
   - Nicholas Latifi
-  - Alexander Albon
+  - *Alexander Albon*
 
 - **24 F1 races in a year**
   - Bahrain Grand Prix
