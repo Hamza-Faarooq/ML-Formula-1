@@ -32,8 +32,8 @@ The dataset includes:
   - *Zhou Guanyu*
   - *Pierre Gasly*
   - *Yuki Tsunoda*
-  - Sebastian Vettel*
-  - Lance Stroll
+  - *Sebastian Vettel*
+  - *Lance Stroll*
   - *Niko Hulkenberg 
   - Kevin Magnussen
   - Nicholas Latifi
