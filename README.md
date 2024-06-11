@@ -28,7 +28,7 @@ The dataset includes:
   - *Oscar Piastri* **(McLAREN)**
   - *Esteban Ocon* **(ALPINE)**
   - *Pierre Gasly* **(ALPINE)**
-  - *Valtteri Bottas* (KICK SAUBER)**
+  - *Valtteri Bottas* **(KICK SAUBER)**
   - *Zhou Guanyu* (KICK SAUBER)
   - *Yuki Tsunoda* (RB)**
   - *Daniel Ricciardo* (RB)
