@@ -32,7 +32,7 @@ The dataset includes:
   - *Zhou Guanyu* **(KICK SAUBER)**
   - *Yuki Tsunoda* **(RB)**
   - *Daniel Ricciardo* **(RB)**
-  - *Lance Stroll* (ASTON MARTIN)**
+  - *Lance Stroll* **(ASTON MARTIN)**
   - *Fernando Alonso* **(ASTON MARTIN)**
   - *Niko Hulkenberg* (HAAS)**
   - *Kevin Magnussen* (HAAS)**
