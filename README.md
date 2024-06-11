@@ -17,10 +17,10 @@ The project involves the following steps:
 ## Dataset
 
 The dataset includes:
-- ### 20 current F1 drivers
-  - *Max Verstappen* (REDBULL)
-  - *Sergio Perez* (REDBULL)
-  - *Charles Leclerc* (FERRARI)
+- ### 20 current F1 drivers & Teams
+  - *Max Verstappen* **(REDBULL)**
+  - *Sergio Perez* **(REDBULL)**
+  - *Charles Leclerc* **(FERRARI)**
   - *Carlos Sainz* (FERRARI)
   - *Lewis Hamilton* (MERCEDES)
   - *George Russell* (MERCEDES)
