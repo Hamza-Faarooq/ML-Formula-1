@@ -34,9 +34,9 @@ The dataset includes:
   - *Yuki Tsunoda*
   - *Sebastian Vettel*
   - *Lance Stroll*
-  - *Niko Hulkenberg 
-  - Kevin Magnussen
-  - Nicholas Latifi
+  - *Niko Hulkenberg* 
+  - *Kevin Magnussen*
+  - *Nicholas Latifi*
   - *Alexander Albon*
 
 - **24 F1 races in a year**
