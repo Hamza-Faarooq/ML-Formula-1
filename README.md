@@ -35,9 +35,9 @@ The dataset includes:
   - *Lance Stroll* (ASTON MARTIN)
   - *Fernando Alonso* (ASTON MARTIN)
   - *Niko Hulkenberg* (HAAS)**
-  - *Kevin Magnussen* (HAAS)
-  - *Logan Sargeant* (WILLIAMS)
-  - *Alexander Albon* (WILLIAMS)
+  - *Kevin Magnussen* (HAAS)**
+  - *Logan Sargeant* **(WILLIAMS)**
+  - *Alexander Albon* **(WILLIAMS)**
 
 - ### 24 F1 races in a year
   - Bahrain Grand Prix
