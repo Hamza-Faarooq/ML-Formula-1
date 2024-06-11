@@ -26,7 +26,7 @@ The dataset includes:
   - *George Russell* **(MERCEDES)**
   - *Lando Norris* **(McLAREN)**
   - *Oscar Piastri* **(McLAREN)**
-  - *Esteban Ocon* (ALPINE)**
+  - *Esteban Ocon* **(ALPINE)**
   - *Pierre Gasly* (ALPINE)**
   - *Valtteri Bottas* (KICK SAUBER)**
   - *Zhou Guanyu* (KICK SAUBER)
