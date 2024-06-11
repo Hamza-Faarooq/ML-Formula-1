@@ -21,7 +21,7 @@ The dataset includes:
   - *Max Verstappen* **(REDBULL)**
   - *Sergio Perez* **(REDBULL)**
   - *Charles Leclerc* **(FERRARI)**
-  - *Carlos Sainz* (FERRARI)
+  - *Carlos Sainz* **(FERRARI)**
   - *Lewis Hamilton* (MERCEDES)
   - *George Russell* (MERCEDES)
   - *Lando Norris* (McLAREN)
