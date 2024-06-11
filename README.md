@@ -37,7 +37,7 @@ The dataset includes:
   - *Niko Hulkenberg* 
   - *Kevin Magnussen*
   - *Nicholas Latifi*
-  - *Alexander Albon*
+  - *Alexander Albon* 
 
 - **24 F1 races in a year**
   - Bahrain Grand Prix
