@@ -30,11 +30,11 @@ The dataset includes:
   - *Pierre Gasly* (ALPINE)**
   - *Valtteri Bottas* (KICK SAUBER)**
   - *Zhou Guanyu* (KICK SAUBER)
-  - *Yuki Tsunoda* (RB)
+  - *Yuki Tsunoda* (RB)**
   - *Daniel Ricciardo* (RB)
   - *Lance Stroll* (ASTON MARTIN)
   - *Fernando Alonso* (ASTON MARTIN)
-  - *Niko Hulkenberg* (HAAS)
+  - *Niko Hulkenberg* (HAAS)**
   - *Kevin Magnussen* (HAAS)
   - *Logan Sargeant* (WILLIAMS)
   - *Alexander Albon* (WILLIAMS)
