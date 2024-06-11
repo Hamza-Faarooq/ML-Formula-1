@@ -18,7 +18,7 @@ The project involves the following steps:
 
 The dataset includes:
 - **20 current F1 drivers**
-  - Max Verstappen
+  - *Max Verstappen*
   - Sergio Perez
   - Charles Leclerc
   - Carlos Sainz
