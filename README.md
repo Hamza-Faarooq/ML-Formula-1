@@ -22,10 +22,10 @@ The dataset includes:
   - *Sergio Perez* **(REDBULL)**
   - *Charles Leclerc* **(FERRARI)**
   - *Carlos Sainz* **(FERRARI)**
-  - *Lewis Hamilton* (MERCEDES)**
-  - *George Russell* (MERCEDES)**
-  - *Lando Norris* (McLAREN)**
-  - *Oscar Piastri* (McLAREN)
+  - *Lewis Hamilton* **(MERCEDES)**
+  - *George Russell* *#(MERCEDES)**
+  - *Lando Norris* **(McLAREN)**
+  - *Oscar Piastri* **(McLAREN)**
   - *Esteban Ocon* (ALPINE)
   - *Pierre Gasly* (ALPINE)
   - *Valtteri Bottas* (KICK SAUBER)
