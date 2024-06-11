@@ -39,7 +39,7 @@ The dataset includes:
   - *Nicholas Latifi*
   - *Alexander Albon* 
 
-- **24 F1 races in a year**
+- **#24 F1 races in a year**
   - Bahrain Grand Prix
   - Saudi Arabian Grand Prix
   - Australian Grand Prix
