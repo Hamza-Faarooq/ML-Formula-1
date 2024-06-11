@@ -34,8 +34,8 @@ The dataset includes:
   - *Daniel Ricciardo* **(RB)**
   - *Lance Stroll* **(ASTON MARTIN)**
   - *Fernando Alonso* **(ASTON MARTIN)**
-  - *Niko Hulkenberg* (HAAS)**
-  - *Kevin Magnussen* (HAAS)**
+  - *Niko Hulkenberg* **(HAAS)**
+  - *Kevin Magnussen* **(HAAS)**
   - *Logan Sargeant* **(WILLIAMS)**
   - *Alexander Albon* **(WILLIAMS)**
 
