@@ -4,8 +4,7 @@
 
 This project aims to predict the positions of Formula One drivers in a race based on various factors using machine learning techniques.
 
-#### Synthetic data is used in the initial code.
-#### searching for F1 API -- fetching API data...
+#### Synthetic data is used in the initial code. Searching for F1 API -- fetching API data is encountering error...
  
 ## Project Overview
 
